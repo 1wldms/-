@@ -141,7 +141,7 @@ print(tokenizer.decode(outputs[0][inputs['input_ids'].shape[1]:], skip_special_t
 
 ## 🖼️ 실행 화면
 ### Loss 곡선
-<img width="690" height="456" alt="Screenshot 2026-06-20 at 22 56 17" src="https://github.com/user-attachments/assets/c5e11126-5633-4a30-b383-732c78ac5589" />
+<img width="790" height="390" alt="image" src="https://github.com/user-attachments/assets/d34ad957-a24d-40a0-9e8d-616672fbc760" />
 
 | Step | Train Loss | Val Loss |
 |---|---|---|
@@ -153,7 +153,8 @@ print(tokenizer.decode(outputs[0][inputs['input_ids'].shape[1]:], skip_special_t
 ### Before / After 추론 예시
 
 <img width="840" height="467" alt="Screenshot 2026-06-20 at 22 55 53" src="https://github.com/user-attachments/assets/80b6113d-0ca8-4ed1-8fbf-c1721ac6a4f2" />
-<img width="790" height="390" alt="image" src="https://github.com/user-attachments/assets/d34ad957-a24d-40a0-9e8d-616672fbc760" />
+<img width="690" height="456" alt="Screenshot 2026-06-20 at 22 56 17" src="https://github.com/user-attachments/assets/c5e11126-5633-4a30-b383-732c78ac5589" />
+
 
 ---
 
